@@ -26,48 +26,11 @@ A comprehensive spa booking and management platform built with modern web techno
 - **Financial Reports**: Revenue tracking and commission calculations
 - **Customer Management**: View customer history and preferences
 
-### 🔧 Technical Highlights
-- **Modular Architecture**: 20+ well-organized backend modules
-- **Type Safety**: End-to-end TypeScript with PostgreSQL ENUM support
-- **Real-time Features**: Live availability checking and notifications
-- **Responsive Design**: Mobile-first UI with Tailwind CSS
-- **Interactive Maps**: Location-based search with Leaflet integration
+## ️ Tech Stack
 
-## 🛠️ Tech Stack
-
-### Frontend
-| Technology | Version | Purpose |
-|------------|---------|---------|
-| **Next.js** | 13+ | React Framework with App Router |
-| **TypeScript** | 5.0+ | Type-safe JavaScript |
-| **Tailwind CSS** | 3.3+ | Utility-first CSS Framework |
-| **Radix UI** | Latest | Accessible UI Components |
-| **Lucide React** | Latest | Icon Library |
-| **Axios** | Latest | HTTP Client |
-| **Leaflet** | 1.9.4 | Interactive Maps |
-| **React Hook Form** | - | Form Management (removed, using controlled components) |
-
-### Backend
-| Technology | Version | Purpose |
-|------------|---------|---------|
-| **NestJS** | 10+ | Node.js Framework |
-| **TypeScript** | 5.0+ | Type-safe JavaScript |
-| **TypeORM** | Latest | Object-Relational Mapping |
-| **PostgreSQL** | 15+ | Primary Database |
-| **JWT** | Latest | Authentication Tokens |
-| **Bcrypt** | Latest | Password Hashing |
-| **Passport** | Latest | Authentication Middleware |
-| **Multer** | Latest | File Upload Handling |
-| **Class-validator** | Latest | Input Validation |
-
-### Infrastructure & Tools
-| Technology | Purpose |
-|------------|---------|
-| **Vercel** | Frontend Deployment |
-| **Render** | Backend & Database Hosting |
-| **Git & GitHub** | Version Control |
-| **Swagger** | API Documentation |
-| **Figma** | UI/UX Design |
+**Frontend**: Next.js, TypeScript, Tailwind CSS, Radix UI, Leaflet, Axios  
+**Backend**: NestJS, TypeScript, TypeORM, PostgreSQL, JWT, Bcrypt  
+**Infrastructure**: Vercel (Frontend), Render (Backend & Database)
 
 ## 🚀 Quick Start
 
@@ -289,7 +252,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- **Project Developer**: [Your Name]
+- **Project Developer**: Tran Minh Duc
 - **Technologies**: Next.js, NestJS, PostgreSQL, TypeScript
 - **Architecture**: Monolithic Layered Architecture
 - **Documentation**: Comprehensive technical documentation included
